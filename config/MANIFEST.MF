@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: fqSplit.FqSplit
+Class-Path: lib/commons-cli-2.0.jar
+Created-By: Xing Liu
